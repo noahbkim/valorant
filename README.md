@@ -18,7 +18,7 @@ Our goal is for them to be readable both in plaintext format and as rendered mar
 Some guidelines:
 
 - Sentences should go on separate lines.
-  In my experience, this makes file diffs much more meaningful while reviewing pull requests.
+  In my experience, this makes file diffs much more meaningful, especially for pull requests.
   It also avoids most issues that arise while trying to manually wrap text.
 - Use concise file names that reflect the format of surrounding files.
   Titles should be `lower-kebab-case.md`.
