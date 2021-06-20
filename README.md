@@ -9,8 +9,8 @@ Our goal is to centralize our community's effort into a single repository contai
 - Scripts for collecting data about the game and its runtime
 - Scripts for testing remote API endpoints
 
-Interested in developing an app using anything from this repository?
-Come join the unofficial Valorant app developer [Discord](https://discord.gg/42ntAKCBku).
+Developing an app using anything from this repository?
+Join the unofficial Valorant app developer [Discord](https://discord.gg/42ntAKCBku).
 
 ## Contributing
 
