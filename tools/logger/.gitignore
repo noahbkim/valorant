@@ -1,0 +1,6 @@
+# Python
+__pycache__
+*.pyc
+
+# Ignore local development
+test.py
