@@ -129,7 +129,9 @@ def print_response(response: requests.Response):
 
     # Print in separate streams so you can pipe data into a file
     if response.headers.get("content-type").lower() == "application/json":
-        json.dump(response.json(), sys.stdout, indent=2)
+        json.dump(response.json(), fp=sys.stdout, indent=2)
+    else:
+        print(response.text)
 
 
 def main():
