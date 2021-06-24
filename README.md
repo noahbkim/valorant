@@ -31,4 +31,4 @@ Some guidelines:
 **This repository is not affiliated nor endorsed by Riot Games in any way.
 Riot Games, Valorant, and all associated properties are trademarks or registered trademarks of Riot Games, Inc.**
 
-I the repository owner (noahbkim) nor the contributors of this repository will **NOT** take responsibilty for any misuse of the tools / information provided in this repository.
+I the repository owner (noahbkim) nor the contributors of this repository will **NOT** take responsibilty for any malicious use of the tools / information provided in this repository.
