@@ -26,3 +26,9 @@ Some guidelines:
 - Use concise file names that reflect the format of surrounding files.
   Titles should be `lower-kebab-case.md`.
   The only exception is `README.md`, which should be titled as written.
+
+## DISCLAIMER
+**This repository is not affiliated nor endorsed by Riot Games in any way.
+Riot Games, Valorant, and all associated properties are trademarks or registered trademarks of Riot Games, Inc.**
+
+I the repository owner (noahbkim) nor the contributors of this repository will **NOT** take responsibilty for any malicious use of the tools / information provided in this repository.
